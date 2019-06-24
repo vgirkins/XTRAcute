@@ -4,3 +4,10 @@ C:\Users\Tori\Documents\Visual Studio 2015\Projects\XTRAcute\XTRAcute\bin\Debug\
 C:\Users\Tori\Documents\Visual Studio 2015\Projects\XTRAcute\XTRAcute\obj\Debug\XTRAcute.csprojResolveAssemblyReference.cache
 C:\Users\Tori\Documents\Visual Studio 2015\Projects\XTRAcute\XTRAcute\obj\Debug\XTRAcute.exe
 C:\Users\Tori\Documents\Visual Studio 2015\Projects\XTRAcute\XTRAcute\obj\Debug\XTRAcute.pdb
+C:\Users\Tori\Documents\GitHub\XTRAcute\XTRAcute\bin\Debug\XTRAcute.exe.config
+C:\Users\Tori\Documents\GitHub\XTRAcute\XTRAcute\bin\Debug\XTRAcute.exe
+C:\Users\Tori\Documents\GitHub\XTRAcute\XTRAcute\bin\Debug\XTRAcute.pdb
+C:\Users\Tori\Documents\GitHub\XTRAcute\XTRAcute\obj\Debug\XTRAcute.csprojAssemblyReference.cache
+C:\Users\Tori\Documents\GitHub\XTRAcute\XTRAcute\obj\Debug\XTRAcute.csproj.CoreCompileInputs.cache
+C:\Users\Tori\Documents\GitHub\XTRAcute\XTRAcute\obj\Debug\XTRAcute.exe
+C:\Users\Tori\Documents\GitHub\XTRAcute\XTRAcute\obj\Debug\XTRAcute.pdb
